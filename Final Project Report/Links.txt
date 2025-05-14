@@ -1,0 +1,7 @@
+https://arduino.esp8266.com/stable/package_esp8266com_index.json
+https://dl.espressif.com/dl/package_esp32_index.json
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+
+https://www.youtube.com/watch?v=pp6OIvShxIo&t=1114s
+
+https://lon1.blynk.cloud/dashboard/48851/global/devices/1/organization/48851/devices/163541/dashboard
